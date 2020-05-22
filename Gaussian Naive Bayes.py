@@ -1,9 +1,6 @@
-# # Loading the wine dataset
+## Loading the wine dataset
 
-# In[2]:
-
-
-# importing the necessary libraries and packages
+#####importing the necessary libraries and packages
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -13,10 +10,7 @@ import numpy as np
 from sklearn.datasets import load_wine
 
 
-# In[3]:
-
-
-# loading the whole dataset and converting in into a dataframe
+#####loading the whole dataset and converting in into a dataframe
 
 wine = load_wine()
 
