@@ -1,7 +1,7 @@
 # Gaussian-Naive-Bayes-implementation
 Implementation of the Gaussian Naive Bayes Classifier, that is one of the naïve Bayes classifiers (probabilistic classifiers based on Bayes' theorem).
 
-Here, we try to classify the wine dataset from the sklearn library into different classes that they belong, namely Class 1, Class 2, Class 3.
+Here, we try to classify the wine dataset from the sklearn library into different classes that they belong, namely Class 0, Class 1, Class 2.
 
 The following libraries will be required to execute the whole project:
 
