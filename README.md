@@ -3,7 +3,8 @@ Implementation of the Gaussian Naive Bayes Classifier, that is one of the naïve
 
 Here, we try to classify the wine dataset from the sklearn library into different classes that they belong, namely Class 1, Class 2, Class 3.
 
-The following libraries will be required to execute the whole project -
+The following libraries will be required to execute the whole project:
+
 -pandas as pd
 -matplotlib.pyplot as plt
 -seaborn as sns
