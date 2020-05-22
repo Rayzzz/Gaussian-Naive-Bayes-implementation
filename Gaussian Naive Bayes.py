@@ -1,6 +1,6 @@
-## Loading the wine dataset
+# Loading the wine dataset
 
-#####importing the necessary libraries and packages
+#importing the necessary libraries and packages
 
 import pandas as pd
 import matplotlib.pyplot as plt
