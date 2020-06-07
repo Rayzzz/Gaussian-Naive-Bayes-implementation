@@ -15,4 +15,4 @@ The following libraries will be required to execute the whole project:
 
 -numpy as np
 
--load_wine from sklearn.datasets
+-load_wine from sklearn.datasets 
